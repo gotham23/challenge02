@@ -1,0 +1,93 @@
+body {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron button {
+  background-color: #5cb85f;
+  color: white;
+  border: none;
+}
+
+.jumbotron img {
+  margin-left: 2px;
+}
+.jumbotron h1 {
+  font-weight: bold;
+}
+
+.our h3 {
+  font-weight: bold;
+}
+
+.why img {
+  width: 30px;
+  height: 30px;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  content: icon;
+}
+.testimonial-img {
+  width: 80px;
+  height: 80px;
+}
+.testimonial-rating {
+  max-height: 16px;
+}
+.testimonial-name {
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+  line-height: 0px;
+}
+.testimonial-media {
+  margin-top: 20px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #f1f3ff;
+  color: black;
+  border-radius: 50%;
+  border: solid;
+}
+.testimonial-media:hover {
+  background-color: #04aa6d;
+  color: white;
+}
+
+.getting {
+  color: white;
+  border-radius: 60px;
+}
+
+.getting a {
+  background-color: #5cb85f;
+  color: white;
+}
+
+footer {
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+/* .why card {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px;
+  gap: 16px;
+
+  width: 268px;
+  height: 196px;
+
+  border: 1px solid #d0d0d0;
+  border-radius: 8px;
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+} */
